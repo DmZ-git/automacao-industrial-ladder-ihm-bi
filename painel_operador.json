@@ -1,0 +1,18 @@
+{
+  "PB_START": false,
+  "PB_STOP": false,
+  "PB_EMG_ACIONADO": false,
+  "PB_RESET": false,
+  "SEL_RECEITA": 0,
+  "HABILITA_MANUAL": true,
+  "MAN_XV_CARGA": false,
+  "MAN_XV101": false,
+  "MAN_P101": false,
+  "MAN_AG101": false,
+  "MAN_XV_ENVASE": false,
+  "MAN_P103": false,
+  "forcar_falha_FL_P101": false,
+  "forcar_falha_FL_P103": false,
+  "forcar_falha_FL_P104": false,
+  "forcar_falha_FL_P105": false
+}
